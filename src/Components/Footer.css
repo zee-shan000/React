@@ -1,0 +1,39 @@
+body
+{
+    margin: auto;
+}
+.move
+{
+    margin-left: 130px;
+    font-size: 15px;
+    text-align: justify;
+}
+.black
+{
+    color: black;
+}
+.fa {
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: transparent;
+    color: black;
+  }
+  .fa-twitter {
+    background:transparent;
+    color: black;
+  }
+  .fa-youtube
+  {
+    background:transparent;
+    color: black;
+  }
+  .fa-instagram
+  {
+    background:transparent;
+    color: black;
+  }

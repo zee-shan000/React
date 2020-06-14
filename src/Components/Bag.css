@@ -1,0 +1,100 @@
+body {
+  margin: auto;
+}
+.be {
+  margin-top: 130px;
+  background-color: rgb(26, 26, 26);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+.be2 {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+.dropbtn {
+  background-color: transparent;
+  color: black;
+  padding: 16px;
+  font-size: 15px;
+  border: transparent;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(233, 227, 227);
+  min-width: 420px;
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {
+  background-color: rgb(192, 189, 189);
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbtn {
+  background-color: white;
+}
+.length {
+  width: 400px;
+  font-size: 11px;
+  font-family: Barlow, sans-serif;
+}
+hr.new {
+  border: 0.5px solid black;
+}
+.back {
+  background-color: white;
+  font-size: 15px;
+}
+.z {
+  font-size: 65px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 15px;
+}
+.btn-dark {
+  margin-left: 20px;
+  height: 30px;
+  margin-top: -5px;
+  width: 100px;
+}
+.inputtype {
+  height: 30px;
+  width: 250px;
+}
+
+hr.new {
+  border: 0.5px solid black;
+  width: 250px;
+}
+.fix {
+  background-color: transparent;
+}
+.Hell {
+  height: 30px;
+  width: 40px;
+}
+.mo {
+  margin-left: 70px;
+  width: 500px;
+  color: black;
+  border: solid 2px black;
+}
+.mi {
+  background-color: black;
+  padding-top: 20px;
+  padding-left: 15px;
+  height: 60px;
+  color: white;
+}

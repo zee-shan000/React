@@ -1,0 +1,44 @@
+.email {
+  transform: rotate(-30deg);
+  height: 500px;
+  width: 500px;
+}
+.col {
+  margin-top: 80px;
+  margin-left: 150px;
+}
+.h {
+  font-weight: bold;
+}
+.font {
+  font-size: 20px;
+  margin-left: -110px;
+  font-weight: bold;
+}
+.size {
+  height: 40px;
+  width: 430px;
+  background-color: rgb(221, 212, 212);
+  border: transparent;
+  border-radius: 30px;
+  padding-left: 30px;
+  outline: 2px solid white;
+}
+.sizee {
+  height: 200px;
+  width: 430px;
+  background-color: rgb(221, 212, 212);
+  border: transparent;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-bottom: 150px;
+  outline: 2px solid white;
+}
+.dark {
+  font-size: 18px;
+  height: 45px;
+  width: 110px;
+  margin-left: 150px;
+  color: gray;
+  outline: 3px solid rgb(107, 107, 107);
+}

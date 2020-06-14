@@ -1,0 +1,45 @@
+body {
+  background-image: url("E:\React\project\src\images\FirstPage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ZS {
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 200px;
+}
+.butt {
+  width: 15%;
+  height: 30px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  background-color: transparent;
+  color: black;
+  font-size: 12px;
+  border: 2px solid black;
+}
+.butt:hover {
+  background-color: gray;
+  color: white;
+}
+.list {
+  width: 25%;
+  font-size: 14px;
+  padding: 14px 20px;
+  margin: 10px 0;
+  border-radius: 1px;
+  cursor: pointer;
+  background-color: transparent;
+  color: black;
+  border: 2px solid #555555;
+  outline: 1px solid black;
+}
+.grey {
+  background-color: lightgray;
+}
+.enter {
+  margin-top: -50px;
+  font-size: 15px;
+}
